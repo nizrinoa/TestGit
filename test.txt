@@ -8,3 +8,5 @@ trying to commit by tortoise
 
 merge chance from github
 >>>>>>> .theirs
+hrgdujhtyujt
+should be seen in git status
