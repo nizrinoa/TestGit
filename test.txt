@@ -1,4 +1,10 @@
 this is my first text file
+<<<<<<< .mine
 trying to commit by tortoise
 
 merge chance from local
+=======
+trying to commit by tortoise
+
+merge chance from github
+>>>>>>> .theirs
